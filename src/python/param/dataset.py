@@ -1,0 +1,10 @@
+
+DIALOGUE_ID = "dialogue_id"
+UTTERANCE_ID = "utterance_id"
+TIMESTAMP = "timestamp"
+SPEAKER_ID = "speaker_id"
+TEXT = "text"
+ACT = "dialogue_act"
+FACTOR_ID = "factor_id"
+UTTERANCE_DOMAIN = "dialogue_domain"
+UTTERANCE_SUBDOMAIN = "utterance_category"
